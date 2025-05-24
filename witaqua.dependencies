@@ -2,5 +2,13 @@
   {
     "repository": "device_fcnt_itc-kernel",
     "target_path": "device/fcnt/itc-kernel"
-  }
+  },
+  {
+    "repository": "device_mediatek_sepolicy_vndr",
+    "target_path": "device/mediatek/sepolicy_vndr"
+  },
+  {
+    "repository": "hardware_mediatek",
+    "target_path": "hardware/mediatek"
+  },
 ]
